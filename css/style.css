@@ -131,8 +131,6 @@ img {
  @media screen and (max-width:480px){
     .container{
         width: 100%;
-        margin: 0 auto;
-        padding: 0 20px;
     }
 
     .row{
@@ -186,8 +184,6 @@ img {
  @media screen and (max-width:768px ){
     .container{
         width: 100%;
-        margin: 0 auto;
-        padding: 0 20px;
     }
 
 
